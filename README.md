@@ -47,3 +47,9 @@ Due to large file size, the datasets are hosted on Google Drive.
 
 ### Step 1: Clone the Repository
 ```bash
+https://github.com/MahakPathak/trader-performance-sentiment-study.git
+
+### Step 2: Install Required Libraries
+Before running the project, install all the necessary Python libraries using the following command:
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
